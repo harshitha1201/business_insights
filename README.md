@@ -1,7 +1,7 @@
 # Business Insights 360 of Atliq Hardwares
 
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDRjM2ZkOTctZWRkYy00YWVjLWFiNWEtMDI0NDJjZGYyMTdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjEyOWMwZDktYTU3Yy00NzhiLTkzY2ItYmExNTQyNzJkNjdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Company Background:**
@@ -39,22 +39,24 @@ performance. It's a step towards surviving and thriving in the industry.
 **Overall Report**
 
 Home Page of the Dashboard
-![h](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/58e70799-b228-4691-bbd5-2f93e341ca16)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/418e71ea-c1bf-47ef-b973-efa00ed45a44)
 
 Finance View
-![f](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/852bb666-4d94-45ba-80ea-fad31ccdb413)
 
 Sales View
-![s](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/e59ddda7-8d39-4f7c-8076-9c21885c4c3e)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/7195f87a-a378-47a3-a236-0f79654e0027)
 
 Marketing View
-![m](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0ffcf851-b993-46a3-8931-4424b3b2c014)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/f19772e9-024c-4e57-a9e3-4c601e5b6d12)
 
 Supply Chain View
-![sp](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/7328cfef-d6a6-4ffe-bc0a-12c75cdfe870)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/1ab963e8-d9b9-42a7-bf73-4b68ee720c0c)
 
 Executive View
-![e](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/205ea814-11a1-4ead-8121-e9cf81592728)
+![image](https://github.com/harshitha1201/business_insights/assets/97012127/3c54d7f8-921a-43f0-bd35-a8be0610811c)
+
+
 
 Info Page
 ![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
