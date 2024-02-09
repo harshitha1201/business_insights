@@ -38,28 +38,20 @@ performance. It's a step towards surviving and thriving in the industry.
    
 **Overall Report**
 
-Home Page of the Dashboard
+**Home Page of the Dashboard**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/418e71ea-c1bf-47ef-b973-efa00ed45a44)
 
-Finance View
+**Finance View**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/852bb666-4d94-45ba-80ea-fad31ccdb413)
 
-Sales View
+**Sales View**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/7195f87a-a378-47a3-a236-0f79654e0027)
 
-Marketing View
+**Marketing View**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/f19772e9-024c-4e57-a9e3-4c601e5b6d12)
 
-Supply Chain View
+**Supply Chain View**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/1ab963e8-d9b9-42a7-bf73-4b68ee720c0c)
 
-Executive View
+**Executive View**
 ![image](https://github.com/harshitha1201/business_insights/assets/97012127/3c54d7f8-921a-43f0-bd35-a8be0610811c)
-
-
-
-Info Page
-![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
-
-Support Page
-![sprt](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/897e23dc-3467-4f5d-b10f-98c09fbaa69b
